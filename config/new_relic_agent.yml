@@ -6,6 +6,9 @@
 #
 # This section is for settings common to all environments.
 # Do not add anything above this next line.
+version: 3.+
+repository_root: "{default.repository.root}/new-relic"
+
 common: &default_settings
   #
   # ============================== LICENSE KEY ===============================

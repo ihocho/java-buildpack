@@ -9,7 +9,8 @@
 version: 3.+
 repository_root: "{default.repository.root}/new-relic"
 
-common: &default_settings
+#common: &default_settings
+config: &default_settings
   #
   # ============================== LICENSE KEY ===============================
 
